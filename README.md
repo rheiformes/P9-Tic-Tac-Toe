@@ -5,11 +5,11 @@
 
 ## Verilog Code
 - Tic Tac Toe simulation.
-- Attached as `P9-Tic-Tac-Toe/game.v`
+- Attached as [`P9-Tic-Tac-Toe/game.v`](https://github.com/rheiformes/P9-Tic-Tac-Toe/blob/main/game.v)
 
 ## Arduino Code
 - Simulate cell logic for each group of 3 cells.
-- Attached as `P9-Tic-Tac-Toe/tic-tac-toe-cell-digital/tic-tac-toe-cell-digital.ino`
+- Attached as [`P9-Tic-Tac-Toe/tic-tac-toe-cell-digital/tic-tac-toe-cell-digital.ino`](https://github.com/rheiformes/P9-Tic-Tac-Toe/blob/main/tic-tac-toe-cell-digital/tic-tac-toe-cell-digital.ino)
 
 ## Circuit Schematic
 - Circuit Diagram we made for the full board.
