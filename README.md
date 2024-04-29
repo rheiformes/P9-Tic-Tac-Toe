@@ -13,7 +13,7 @@
 
 ## Circuit Schematic
 - Circuit Diagram we made for the full board.
-- ![P9-Tic-Tac-Toe Circuit Diagram](https://github.com/rheiformes/P9-Tic-Tac-Toe/Circuit-Diagram.png)
+- ![P9-Tic-Tac-Toe Circuit Diagram](https://github.com/rheiformes/P9-Tic-Tac-Toe/blob/main/Circuit-Diagram.png)
 
 ## Interactive Complete Circuit Simulation
 - Made with digitaljs, a verilog to circuit online software.
