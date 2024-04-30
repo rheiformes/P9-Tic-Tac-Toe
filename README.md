@@ -12,7 +12,7 @@
 - Attached as [`P9-Tic-Tac-Toe/tic-tac-toe-cell-digital/tic-tac-toe-cell-digital.ino`](https://github.com/rheiformes/P9-Tic-Tac-Toe/blob/main/tic-tac-toe-cell-digital/tic-tac-toe-cell-digital.ino)
 
 ## Circuit Schematic
-- Circuit Diagram we made for the full board.
+- Circuit Diagram we made for the full board. Imagine all gates implemented at the transistor level, though.
 - ![P9-Tic-Tac-Toe Circuit Diagram](https://github.com/rheiformes/P9-Tic-Tac-Toe/blob/main/Circuit-Diagram.png)
 
 ## Interactive Complete Circuit Simulation
